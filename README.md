@@ -23,3 +23,11 @@ Before starting, make sure you have:
 ✅ SOL in your wallet (~0.05 SOL or about $7 for all fees)
 ✅ Your mint address for the token you created earlier
 ✅ Optional: your token logo and metadata hosted on Storacha
+
+# 🪙 3️⃣ Mint Your Token on Mainnet-Beta
+
+
+
+
+
+
