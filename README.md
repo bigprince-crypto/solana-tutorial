@@ -26,7 +26,8 @@ Before starting, make sure you have:
 
 # 🪙 3️⃣ Mint Your Token on Mainnet-Beta
 
-
+If your existing token was created on Devnet, it won’t appear on Raydium.
+You’ll need to mint a real token on mainnet first.
 
 
 
