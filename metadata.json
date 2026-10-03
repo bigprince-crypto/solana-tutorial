@@ -4,3 +4,5 @@
   "description":"my jeta coin",
   "image":"image_URL"
 } 
+
+solana config set --url https://api.mainnet-beta.solana.com
