@@ -1,4 +1,4 @@
-# solana-tutorial
+# 💧 Add Your Solana Token to a Liquidity Pool — Raydium 2025 Tutorial
 
 {
   "name": "jet cat",
