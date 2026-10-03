@@ -16,4 +16,4 @@ Add a Raydium liquidity pool pairing your token with SOL
 View your new market on Dexscreener and Jupiter
 Give your token its first real market value
 
-#💡 2️⃣ What You’ll Need
+# 💡 2️⃣ What You’ll Need
