@@ -32,3 +32,4 @@ You’ll need to mint a real token on mainnet first.
 solana config set --url https://api.mainnet-beta.solana.com
 
 
+
