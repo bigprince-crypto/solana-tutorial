@@ -1,8 +1,8 @@
 # solana-tutorial
 
 {
-  "name":"jet cat",
-  "symbol":"jecat",
-  "description":"my jeta coin",
-  "image":"image_URL"
+  "name": "jet cat",
+  "symbol": "JECAT",
+  "description": "my JETCAT coin",
+  "image": "IMAGE_URL"
 } 
